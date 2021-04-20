@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    background-color: darkslateblue;
+    display: flex;/*wrap vaneko box haru atena vane tallo line ma pathaune*/
+    flex-wrap: wrap;
+
+}
+.item{
+    height: 300px;
+    width: 300px;
+    background-color: firebrick;
+    margin: 10px;
+
+}
